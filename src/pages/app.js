@@ -7,7 +7,7 @@ import Login from "../components/login";
 
 const App = () => (
   <Layout>
-    <Router>
+    <Router basepath="/Gatsby-Authentication">
       <PrivateRoute path="/app/profile" component={Profile} />
       <Login path="/app/login" />
     </Router>
