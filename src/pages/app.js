@@ -7,7 +7,7 @@ import Login from "../components/login";
 
 const App = () => (
   <Layout>
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basepath="/app">
       <PrivateRoute path="/app/profile" component={Profile} />
       <Login path="/app/login" />
     </Router>
