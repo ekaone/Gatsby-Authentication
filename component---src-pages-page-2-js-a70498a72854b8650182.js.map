@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/page-2.js"],"names":["PageTwo"],"mappings":"2FAAA,yEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-page-2-js-a70498a72854b8650182.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function PageTwo() {\r\n  return <div>Page 2</div>;\r\n}\r\n"],"sourceRoot":""}
