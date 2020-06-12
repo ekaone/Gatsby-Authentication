@@ -8,7 +8,8 @@ Gatsby Authentication, simple app used local storage as data store
 
 Live [Demo](https://ekaone.github.io/Gatsby-Authentication/)
 
-> 💡  NOTE: If you would like to deploy with GitHub Pages, change the value of `basepath` props with your repository name as below:
+💡
+> NOTE: If you would like to deploy with GitHub Pages, change the value of `basepath` props with your repository name as below:
 
 ```jsx
 // src/pages/app.js
